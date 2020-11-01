@@ -1,5 +1,4 @@
 # ProjetoPatos
-## Descrição
 Projeto criado com fins de estudo de padrões de projeto em TypeScript.
 
 ## Passo a passo
